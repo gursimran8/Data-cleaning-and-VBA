@@ -169,7 +169,7 @@ for i in a:
 sns.pointplot(x="PurchaseDate",y="PurchaseAmount",data=x,color="blue",linewidth=1)
 plt.show()
 
-plt.hist(x["PurchaseAmount"], bins=10, color="blue", alpha=0.7)
+plt.hist(x["PurchaseAmount"], bins=10, color="grey", alpha=0.7)
 
 # Apply the rainbow colormap
 plt.hist(x["PurchaseAmount"], bins=10, color=plt.cm.rainbow(np.linspace(0, 1, 10)))
