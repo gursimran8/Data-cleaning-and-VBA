@@ -169,10 +169,13 @@ for i in a:
 sns.pointplot(x="PurchaseDate",y="PurchaseAmount",data=x,color="blue",linewidth=1)
 plt.show()
 
-plt.hist(x["PurchaseAmount"], bins=10, color="grey", alpha=0.7)
+import matplotlib.pyplot as plt
+import numpy as np
 
-# Apply the rainbow colormap
-plt.hist(x["PurchaseAmount"], bins=10, color=plt.cm.rainbow(np.linspace(0, 1, 10)))
+plt.hist(x["PurchaseAmount"], color='grey',edgecolor='black') # removed the color argument that was causing the error. The default color will be used.
+
+# Apply the rainbow colormap - This has been commented out because it was causing the error, but the code is kept here for reference in case the user intended to plot multiple datasets.
+# plt.hist(x["PurchaseAmount"], bins=10, color=plt.cm.rainbow(np.linspace(0, 1, 10)))
 
 plt.title("Histogram of Purchase Amounts")
 plt.xlabel("Purchase Amount")
