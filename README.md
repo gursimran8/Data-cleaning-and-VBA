@@ -53,6 +53,7 @@ How to Use This Repository
 1. Clone the Repository:
 To get started, clone the repository using the following command in your terminal:
 
+<<<<<<< HEAD
 bash
 Copy code
 git clone https://github.com/gursimran8/Data-cleaning-and-VBA.git
@@ -75,6 +76,21 @@ This project focuses on cleaning and analyzing data using Python. The notebooks 
 
 Author
 Gursimran Singh
+=======
+### 1. Clone the repository:
+git clone https://github.com/gursimran8/Data-cleaning-and-VBA.git
+
+### 2. Install necessary libraries:
+pip install pandas numpy matplotlib seaborn
+
+### 3. Run the analysis notebooks and explore the data:
+jupyter notebook #
+
+### Author
+**Gursimran Singh**
+For any questions or contributions, feel free to reach out!
+
+>>>>>>> b5693b8 (Improved How to use)
 
 For any questions or contributions, feel free to reach out!
 
