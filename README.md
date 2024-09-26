@@ -42,8 +42,8 @@ This scatter plot visualizes the outliers in the data based on the IQR method. P
 
 This contour plot helps in understanding the density and spread of purchase amounts across the customer dataset.
 
-### 5. Time Series Plot of Purchase Amount
-![Time Series Plot](./Time_series_plot.png)
+### 5. Time.Series Plot of Purchase Amount
+![Time Series Plot](./Time series plot.png)
 
 The time series plot tracks the purchase amounts over time, helping identify trends, spikes, and potential seasonal patterns.
 
