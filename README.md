@@ -20,7 +20,7 @@ This project focuses on cleaning and exploring the dataset of customer purchases
    - **Outlier Detection**: Used IQR method to identify extreme values.
    - **Time Series Analysis**: Explored purchase trends over time.
 
-## Visualizations
+### Visualizations
 
 ### 1. Box Plot of Purchase Amount
 ![Box Plot](./Images/Box_plot_Purshase_Amount.png)
@@ -36,7 +36,6 @@ This project focuses on cleaning and exploring the dataset of customer purchases
 
 ### 5. Time Series Plot of Purchase Amount
 ![Time Series Plot](./Images/Time_series_plot.png)
-
 The time series plot tracks the purchase amounts over time, helping identify trends, spikes, and potential seasonal patterns.
 
 ## Key Findings
