@@ -49,36 +49,10 @@ The time series plot tracks the purchase amounts over time, helping identify tre
 - **Advanced EDA**: Dive deeper into segmenting customers based on purchase behavior.
 - **Machine Learning**: Build a predictive model to understand what factors influence higher purchases.
 
-How to Use This Repository
-1. Clone the Repository:
-To get started, clone the repository using the following command in your terminal:
+## How to Use This Repository
 
-<<<<<<< HEAD
-bash
-Copy code
-git clone https://github.com/gursimran8/Data-cleaning-and-VBA.git
-2. Install Required Libraries:
-After cloning the repository, ensure you have the necessary Python libraries installed. Run the following command to install them:
-
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn
-3. Launch the Jupyter Notebook:
-Once all libraries are installed, open the project in Jupyter Notebook by running:
-
-bash
-Copy code
-jupyter notebook
-This will open the Jupyter environment where you can explore the notebooks and perform data analysis.
-
-Project Overview:
-This project focuses on cleaning and analyzing data using Python. The notebooks provided will guide you through the data preprocessing steps, data visualization, and applying different cleaning techniques.
-
-Author
-Gursimran Singh
-=======
 ### 1. Clone the repository:
-git clone https://github.com/gursimran8/Data-cleaning-and-VBA.git
+git clone https://github.com/gursimran8/Data-cleaning-and-EDA.git
 
 ### 2. Install necessary libraries:
 pip install pandas numpy matplotlib seaborn
@@ -88,10 +62,6 @@ jupyter notebook #
 
 ### Author
 **Gursimran Singh**
-For any questions or contributions, feel free to reach out!
-
->>>>>>> b5693b8 (Improved How to use)
-
 For any questions or contributions, feel free to reach out!
 
 
