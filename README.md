@@ -23,27 +23,19 @@ This project focuses on cleaning and exploring the dataset of customer purchases
 ## Visualizations
 
 ### 1. Box Plot of Purchase Amount
-![Box Plot](./Box_plot_Purshase_Amount.png)
-
-This box plot shows the distribution of purchase amounts, with the median, interquartile range (IQR), and potential outliers.
+![Box Plot](./Images/Box_plot_Purshase_Amount.png)
 
 ### 2. Histogram of Purchase Amounts
-![Histogram](./histogram_Purchase_Amount.png)
-
-This histogram depicts the frequency distribution of the purchase amounts, giving a clear view of how the data is spread across different value ranges.
+![Histogram](./Images/histogram_Purchase_Amount.png)
 
 ### 3. Outlier Detection Using IQR
-![Outlier Detection](./Outlier_detection.png)
-
-This scatter plot visualizes the outliers in the data based on the IQR method. Points outside the whiskers are potential outliers.
+![Outlier Detection](./Images/Outlier_detection.png)
 
 ### 4. Pair Plot for Outlier Detection
-![Pair Plot](./Pair_Plot_Outier_Detection.png)
+![Pair Plot](./Images/Pair_Plot_Outier_Detection.png)
 
-This contour plot helps in understanding the density and spread of purchase amounts across the customer dataset.
-
-### 5. Time.Series Plot of Purchase Amount
-![Time Series Plot](./Time series plot.png)
+### 5. Time Series Plot of Purchase Amount
+![Time Series Plot](./Images/Time_series_plot.png)
 
 The time series plot tracks the purchase amounts over time, helping identify trends, spikes, and potential seasonal patterns.
 
